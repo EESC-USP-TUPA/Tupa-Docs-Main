@@ -23,6 +23,7 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "TAL", "index.html", [
+    [ "Como_Criar_Documentação", "md__como__criar__documenta_xC3_xA7_xC3_xA3o.html", null ],
     [ "TAL", "md__docs_custom-pages__pagina_inicial.html", [
       [ "Pagina inicial", "md__docs_custom-pages__pagina_inicial.html#autotoc_md1", null ]
     ] ],
