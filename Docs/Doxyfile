@@ -4,8 +4,8 @@
 # Project related configuration options
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = TAL
-PROJECT_NUMBER         = v1.0.0
+PROJECT_NAME           = 
+PROJECT_NUMBER         = 
 PROJECT_BRIEF          =
 PROJECT_LOGO           = Docs/Logo.jpg
 OUTPUT_DIRECTORY       = Docs
