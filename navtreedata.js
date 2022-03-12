@@ -22,10 +22,10 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "TAL", "index.html", [
+  [ "My Project", "index.html", [
     [ "Como_Criar_Documentação", "md__como__criar__documenta_xC3_xA7_xC3_xA3o.html", null ],
-    [ "TAL", "md__docs_custom-pages__pagina_inicial.html", [
-      [ "Pagina inicial", "md__docs_custom-pages__pagina_inicial.html#autotoc_md1", null ]
+    [ "Documentação do Time de Software da Tupã", "md__docs_custom-pages__pagina_inicial.html", [
+      [ "Projetos", "md__docs_custom-pages__pagina_inicial.html#autotoc_md1", null ]
     ] ],
     [ "Tupa Docs Template", "md__r_e_a_d_m_e.html", null ]
   ] ]

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['tal_10',['TAL',['../md__docs_custom-pages__pagina_inicial.html',1,'']]],
-  ['tupa_20docs_20template_11',['Tupa Docs Template',['../md__r_e_a_d_m_e.html',1,'']]]
+  ['documentação_20do_20time_20de_20software_20da_20tupã_10',['Documentação do Time de Software da Tupã',['../md__docs_custom-pages__pagina_inicial.html',1,'']]]
 ];
