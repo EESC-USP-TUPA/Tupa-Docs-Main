@@ -1,0 +1,3 @@
+#ignore docs output
+Docs/html/**
+Docs/latex/**

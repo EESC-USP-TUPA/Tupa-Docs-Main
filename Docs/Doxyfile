@@ -4,7 +4,7 @@
 # Project related configuration options
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = 
+PROJECT_NAME           = Documentação do software
 PROJECT_NUMBER         = 
 PROJECT_BRIEF          =
 PROJECT_LOGO           = Docs/Logo.jpg
@@ -180,7 +180,7 @@ INPUT_FILTER           =
 FILTER_PATTERNS        =
 FILTER_SOURCE_FILES    = NO
 FILTER_SOURCE_PATTERNS =
-USE_MDFILE_AS_MAINPAGE = custom-pages/PaginaInicial.md
+USE_MDFILE_AS_MAINPAGE = Docs/custom-pages/1_PaginaInicial.md
 #---------------------------------------------------------------------------
 # Configuration options related to source browsing
 #---------------------------------------------------------------------------
