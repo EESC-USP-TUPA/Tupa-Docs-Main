@@ -22,12 +22,19 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "My Project", "index.html", [
-    [ "Como_Criar_Documentação", "md__como__criar__documenta_xC3_xA7_xC3_xA3o.html", null ],
-    [ "Documentação do Time de Software da Tupã", "md__docs_custom-pages__pagina_inicial.html", [
-      [ "Projetos", "md__docs_custom-pages__pagina_inicial.html#autotoc_md1", null ]
+  [ "Documentaçãodosoftware", "index.html", [
+    [ "Inicio", "index.html", [
+      [ "Porque criar documentação?", "index.html#autotoc_md1", null ],
+      [ "Projetos", "index.html#autotoc_md2", null ]
     ] ],
-    [ "Tupa Docs Template", "md__r_e_a_d_m_e.html", null ]
+    [ "Criando Documentação", "md__docs_custom-pages_2__como__criar__documentacao.html", [
+      [ "Uso do Doxygen", "md__docs_custom-pages_2__como__criar__documentacao.html#autotoc_md4", [
+        [ "Adicionando doxygen ao projeto", "md__docs_custom-pages_2__como__criar__documentacao.html#autotoc_md5", null ],
+        [ "Colocando notas sobre classes e funções usando comentários", "md__docs_custom-pages_2__como__criar__documentacao.html#autotoc_md6", null ],
+        [ "Escrita de paginas em markdown", "md__docs_custom-pages_2__como__criar__documentacao.html#autotoc_md7", null ]
+      ] ],
+      [ "Upando documentação para o github pages", "md__docs_custom-pages_2__como__criar__documentacao.html#autotoc_md8", null ]
+    ] ]
   ] ]
 ];
 
